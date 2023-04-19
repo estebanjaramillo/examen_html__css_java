@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.titulo {
+  background-color: blue;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: white;
+  font-size: 150%;
+}
+.left {
+  text-align: left;
+}
+.input {
+  margin-left: 1em;
+  width: 250px;
+}
+.contenedor {
+  display: flex;
+}
+.txt {
+  width: 100%;
+  font-size: 60%;
+}
+.total {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 15px;
+}
